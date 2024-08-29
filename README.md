@@ -1,8 +1,8 @@
 
 
-** FileNinja: The Ultimate Desktop Declutterizer! (⌐■_■)**
+**FileNinja: The Ultimate Desktop Declutterizer! (⌐■_■)**
 
-**Feeling overwhelmed by a messy desktop?**  Fear not, for File Filer 3000 is here to **slay the file-monster** and **bring order to your digital kingdom!** 
+**Feeling overwhelmed by a messy desktop?**  Fear not, for FileNinja is here to **slay the file-monster** and **bring order to your digital kingdom!** 
 
 **What It Does:**
 
