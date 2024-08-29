@@ -17,16 +17,11 @@ extensions ={
     ".xlsx":"MSDocs",
     ".exe":"Executibles",
     ".zip":"Zips",
-    
-    
-    
-    
     ".pdf":"Documents",
     ".srt":"Documents",
     ".txt":"Documents",
     ".mp3":"Music",
     ".wav":"Music"
-    
 }
 for filename in os.listdir(directory):
     file_path= os.path.join(directory, filename)
