@@ -35,7 +35,7 @@
 
 **Disclaimer:**
 
-* **File Filer 3000 is a responsible organizer, but it's always a good idea to back up your files before running any script.  Just in case!**
+* **FileNinja is a responsible organizer, but it's always a good idea to back up your files before running any script.  Just in case!**
 * This script modifies your file system, so use it wisely and with the confidence of a coding warrior! (No reckless clicks! )
 
 **Feeling Grateful?**
